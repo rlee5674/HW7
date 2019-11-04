@@ -1,0 +1,71 @@
+[{
+	"ID": 1,
+	"Artist": "BTS + Halsey",
+	"Title": "Boy with Luv",
+	"Genre": "Kpop",
+	"Year": 2019
+},
+{
+	"ID": 2,
+	"Artist": "BTS",
+	"Title": "Fake Luv",
+	"Genre": "Kpop",
+	"Year": 2018
+},
+{
+	"ID": 3,
+	"Artist": "BTS + Nicki Minaj",
+	"Title": "Idol",
+	"Genre": "Electronic Dance Music",
+	"Year": 2018
+},
+{
+	"ID": 4,
+	"Artist": "BTS",
+	"Title": "Don't Leave Me",
+	"Genre": "Hip Hop",
+	"Year": 2018
+},
+{
+	"ID": 5,
+	"Artist": "BTS",
+	"Title": "Mic Drop",
+	"Genre": "Hip Hop",
+	"Year": 2017
+}, 
+{
+	"ID": 6,
+	"Artist": "BTS",
+	"Title": "DNA",
+	"Genre": "Rap",
+	"Year": 2017
+}, 
+{
+	"ID": 7,
+	"Artist": "BTS",
+	"Title": "Blood, Sweat & Tears",
+	"Genre": "Moombahton",
+	"Year": 2016
+},
+{
+	"ID": 8,
+	"Artist": "BTS",
+	"Title": "Fire",
+	"Genre": "Kpop",
+	"Year": 2016
+},
+{
+	"ID": 9,
+	"Artist": "BTS",
+	"Title": "Run",
+	"Genre": "R&B",
+	"Year": 2015
+}, 
+{
+	"ID": 10,
+	"Artist": "BTS",
+	"Title": "I Need U",
+	"Genre": "Hip Hop",
+	"Year": 2015
+}
+]
